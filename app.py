@@ -15,7 +15,7 @@ st.markdown("""
                 </style>
                     """, unsafe_allow_html=True)
 
-                    st.title("🏀 Sniper NBA Mobile")
+st.title("🏀 Sniper NBA Mobile")
                     st.caption("Foco. Disciplina. Probabilidade.")
 
                     # --- Inputs do Usuário (A entrada de dados) ---
